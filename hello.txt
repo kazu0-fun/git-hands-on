@@ -1,2 +1,4 @@
 i am kazuo
 hello git!!!!
+how are you?
+
